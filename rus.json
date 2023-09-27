@@ -1,0 +1,20 @@
+﻿{
+  "name":"Minima RU",
+  "description":"RU Minima DAPPs",
+  "icon":"https://github.com/Minima-RU/minidaps/blob/main/minima_logo.png",
+  "version":"1.0",
+  "dapps":[
+    {
+      "file":"https://github.com/Minima-RU/minidaps/blob/main/security-0.27.1.mds.zip",
+      "icon":"https://github.com/Minima-RU/minidaps/blob/main/security.png",
+      "name":"Security",
+      "description": "Обеспечьте сохранность своих данных и средств",
+      "version" : "0.27.1",
+      "about" : ["Функции Security:\n\n- Заблокировать узел для защиты закрытых ключей\n\n- Резервное копирование узла\n\n- Восстановить резервную копию\n\n- Повторная синхронизация узла по цепочке\n\n- Просмотреть или импортировать посевную фразу\n\n- Загрузить экспорт архива (архивные узлы)"],
+      "update" : "- Появилась возможность простого восстановления резервной копии\n\n- Удалена функция автоматического удаления с хоста\n\n- Функция автоматического удаления резервной копии работает как надо",
+      "date" : "16 августа 2023 г.",
+      "history" :[
+      ]
+    }
+  ]
+}
