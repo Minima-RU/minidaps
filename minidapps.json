@@ -51,6 +51,18 @@
       "date" : "Jul 10, 2023",
       "history" :[
       ]
+    },
+        {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/futurecash-2.4.0.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/icons/mainnet/future.png",
+      "name":"Future Cash",
+      "description": "Send cash to the Future!",
+      "version" : "2.4.0",
+      "about" : "Lock up funds for yourself or for another to save, invest or secure, and unlock in the future.",
+      "update" : ["- Now launches in full screen mode on Android. Tap at the top to show title bar."],
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
     }
   ]
 }
