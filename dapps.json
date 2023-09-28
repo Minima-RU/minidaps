@@ -1,0 +1,32 @@
+{
+  "name":"Minima RU",
+  "description":"RUS Minima DAPPs",
+  "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/minima_logo.png",
+  "version":"1.0",
+  "dapps":[
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/security-0.27.1.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/security.png",
+      "name":"Security",
+      "description": "Minima Security",
+      "version" : "2.0.1",
+      "about" : ["Пивет"],
+      "update" : "- Using divide forward slash and comments now work together\n - Clean script now works successfully when using brackets in a function",
+      "date" : "Jul 24, 2023",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/dapp_store-1.0.8.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/dappstore.png",
+      "name":"Dapp StoreRU",
+      "description": "The Dapp Store lists the official MiniDapp store containing dapps build by the Minima team.",
+      "version" : "1.0.8",
+      "about" : "The Dapp Store lists the official MiniDapp store containing dapps build by the Minima team.\n\nAlso create your own store and add custom ones.",
+      "update" : "1",
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
+    }
+  ]
+}
