@@ -54,7 +54,7 @@
     },
         {
       "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/futurecash-2.4.0.mds.zip",
-      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/icons/mainnet/future.png",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/future.png",
       "name":"Future Cash",
       "description": "Send cash to the Future!",
       "version" : "2.4.0",
