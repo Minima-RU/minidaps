@@ -1,0 +1,32 @@
+{
+  "name":"Minima RU",
+  "description":"RUS Minima DAPPs",
+  "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/minima_logo.png",
+  "version":"1.0",
+  "dapps":[
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/security-0.27.1.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/security.png",
+      "name":"Security",
+      "description": "Minima Security",
+      "version" : "2.0.1",
+      "about" : ["Пивет"],
+      "update" : "- Using divide forward slash and comments now work together\n - Clean script now works successfully when using brackets in a function",
+      "date" : "Jul 24, 2023",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/maxcontacts-1.8.7.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/maxcontacts.png",
+      "name":"MaxContacts",
+      "description": "Manage your Maxima contacts",
+      "version" : "1.8.7",
+      "about" : "Set your Maxima profile name and add, remove or share Maxima contact addresses.",
+      "update" : "",
+      "date" : "Feb 06, 2023",
+      "history" :[
+      ]
+    }
+  ]
+}
