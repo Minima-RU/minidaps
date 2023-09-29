@@ -71,7 +71,7 @@
       "description": "RU Minima wallet",
       "version" : "2.33.2",
       "about" : "The Wallet is where you can manage all the funds you own on the Minima blockchain.",
-      "update" : ["Now launches in full screen mode on Android. Tap at the top to show title bar."],
+      "update" : ["-Now launches in full screen mode on Android. Tap at the top to show title bar."],
       "date" : "Jul 10, 2023",
       "history" :[
       ]
