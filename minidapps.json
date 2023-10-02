@@ -1,6 +1,6 @@
 {
   "name":"Minima RU",
-  "description":"RUS Minima DAPPs",
+  "description":"Dapps translated by RU community Minima",
   "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/minima_logo.png",
   "version":"1.0",
   "dapps":[
@@ -46,11 +46,70 @@
       "name":"FilezRU",
       "description": "A simple file manager",
       "version" : "1.9.3",
-      "about" : "Filez is a simple file manager that allows you to:\n\n","- Upload and download files between your phone and desktop\n\n",
+      "about" : "Filez is a simple file manager that allows you to:",
       "update" : "",
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
+    },
+        {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/futurecash-2.4.0.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/future.png",
+      "name":"Future CashRU",
+      "description": "Send cash to the Future!",
+      "version" : "2.4.0",
+      "about" : "Lock up funds for yourself or for another to save, invest or secure, and unlock in the future.",
+      "update" : ["- Now launches in full screen mode on Android. Tap at the top to show title bar."],
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/wallet-2.33.2.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/wallet.png",
+      "name":"WalletRU",
+      "description": "RU Minima wallet",
+      "version" : "2.33.2",
+      "about" : "The Wallet is where you can manage all the funds you own on the Minima blockchain.",
+      "update" : ["-Now launches in full screen mode on Android. Tap at the top to show title bar."],
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/maxsolo-2.4.6.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/maxsolo.png",
+      "name":"MaxSoloRU",
+      "description": "P2P chat app running over Maxima",
+      "version" : "2.4.6",
+      "about" : "MaxSolo is an encrypted, peer-to-peer messaging application, which uses Minima",
+      "update" : ["- Now launches in full screen mode on Android. Tap at the top to show title bar."],
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/pending-1.1.1.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/pending.png",
+      "name":"PendingRU",
+      "description": "Accept or deny pending actions",
+      "version" : "1.1.1",
+      "about" : "Review and accept or deny any pending actions triggered by read-only MiniDapps.",
+      "update" : ["- Larger window to review command output after accepting a pending action."],
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/logs-1.0.2.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/logs.png",
+      "name":"LogsRU",
+      "description": "View and download the logs for your node",
+      "version" : "1.0.1",
+      "about" : "Logs show detailed activity of the processes and actions running on the node.",
+      "update" : ["- Larger window to review command output after accepting a pending action."],
       "date" : "Jul 10, 2023",
       "history" :[
       ]
     }
   ]
-}
