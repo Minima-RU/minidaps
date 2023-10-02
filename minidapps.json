@@ -11,7 +11,7 @@
       "description": "Минима на русском",
       "version" : "2.0.1",
       "about" : ["Пивет"],
-      "update" : "- Using divide forward slash and comments now work together\n - Clean script now works successfully when using brackets in a function",
+      "update" : "- Using divide forward slash and comments now work together - Clean script now works successfully when using brackets in a function",
       "date" : "Jul 24, 2023",
       "history" :[
       ]
