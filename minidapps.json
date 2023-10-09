@@ -91,7 +91,7 @@
     {
       "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/pending-1.1.1.mds.zip",
       "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/pending.png",
-      "name":"PendingRU",
+      "name":"Pending",
       "description": "Accept or deny pending actions",
       "version" : "1.1.1",
       "about" : "Review and accept or deny any pending actions triggered by read-only MiniDapps.",
@@ -103,7 +103,7 @@
     {
       "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/logs-1.0.2.mds.zip",
       "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/logs.png",
-      "name":"LogsRU",
+      "name":"Logs",
       "description": "View and download the logs for your node",
       "version" : "1.0.1",
       "about" : "Logs show detailed activity of the processes and actions running on the node.",
