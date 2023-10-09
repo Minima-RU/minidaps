@@ -123,6 +123,18 @@
       "date" : "Jul 10, 2023",
       "history" :[
       ]
+    },
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/block-2.1.3.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/block.png",
+      "name":"Block",
+      "description": "Explore the Minima blockchain",
+      "version" : "2.1.3",
+      "about" : "The Block Explorer lets you view the latest blocks and transactions on the Minima blockchain. \n Using the Block Explorer MiniDapp, you can: \n \n - Navigate through the Minima blockchain \n- Search by address or TxPoW ID - due to the pruning of the chain, only the last 1000 blocks will be visible \n- Select a block to view its details and the transactions in it \n \n Each block in the chain consists of a main transaction and a transaction list. \n \n When you select a block, you will see 3 tabs, Details, Inputs and Outputs. \n\n- Details: shows the block details, including its transaction list at the bottom. \n- Inputs: shows details for the coins used as inputs to the block’s main transaction (if one exists). \n- Outputs: shows the corresponding Outputs of the main transaction (if one exists).",
+      "update" : ["- Now launches in full screen mode on Android. Tap at the top to show title bar."],
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
     }
   ]
 }
