@@ -111,6 +111,18 @@
       "date" : "Jul 10, 2023",
       "history" :[
       ]
+    },
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/health-1.1.5.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/health.png",
+      "name":"Health",
+      "description": "Check the status and health of your node",
+      "version" : "1.1.5",
+      "about" : "Health shows Minima, Maxima and Network details for your node.\n\n Minima: Information about your node's version, chain, RAM and disk space. \n\n Maxima: Check whether your Maxima contacts are connected and on the same chain as you. \n\n Network: Check how many peers you are currently connected to and the amount of data read from/written to the network",
+      "update" : [""],
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
     }
   ]
 }
