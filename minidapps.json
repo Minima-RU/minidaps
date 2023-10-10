@@ -19,7 +19,7 @@
     {
       "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/maxcontacts-1.8.7.mds.zip",
       "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/maxcontacts.png",
-      "name":"MaxContactsRU",
+      "name":"MaxContacts",
       "description": "Manage your Maxima contacts",
       "version" : "1.8.7",
       "about" : "Set your Maxima profile name and add, remove or share Maxima contact addresses.",
