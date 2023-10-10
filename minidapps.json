@@ -67,7 +67,7 @@
     {
       "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/wallet-2.33.2.mds.zip",
       "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/wallet.png",
-      "name":"WalletRU",
+      "name":"Wallet",
       "description": "RU Minima wallet",
       "version" : "2.33.2",
       "about" : "The Wallet is where you can manage all the funds you own on the Minima blockchain.",
