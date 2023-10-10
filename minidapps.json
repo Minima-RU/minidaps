@@ -43,7 +43,7 @@
     {
       "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/filez-1.9.3.mds.zip",
       "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/filez.png",
-      "name":"FilezRU",
+      "name":"Filez",
       "description": "A simple file manager",
       "version" : "1.9.3",
       "about" : "Filez is a simple file manager that allows you to:",
