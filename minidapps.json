@@ -79,7 +79,7 @@
     {
       "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/maxsolo-2.4.6.mds.zip",
       "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/maxsolo.png",
-      "name":"MaxSoloRU",
+      "name":"MaxSolo",
       "description": "P2P chat app running over Maxima",
       "version" : "2.4.6",
       "about" : "MaxSolo is an encrypted, peer-to-peer messaging application, which uses Minima",
