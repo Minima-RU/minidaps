@@ -31,7 +31,7 @@
     {
       "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/dapp_store-1.0.8.mds.zip",
       "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/dappstore.png",
-      "name":"Dapp StoreRU",
+      "name":"Dapp Store",
       "description": "The Dapp Store lists the official MiniDapp store containing dapps build by the Minima team.",
       "version" : "1.0.8",
       "about" : "The Dapp Store lists the official MiniDapp store containing dapps build by the Minima team.\n\nAlso create your own store and add custom ones.",
