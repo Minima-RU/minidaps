@@ -147,6 +147,30 @@
       "date" : "Jul 10, 2023",
       "history" :[
       ]
+    },
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/maximize-1.1.1.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/maximize.png",
+      "name":"Maximize",
+      "description": "Stake native Minima and earn yield",
+      "version" : "1.1.1",
+      "about" : "Maximize is a non-custodial yield product.\n\n",
+      "update" : ["- Now launches in full screen mode on Android. Tap at the top to show title bar."],
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/vestr-1.7.2.mds.zip",
+      "icon":"https://raw.githubusercontent.com/Minima-RU/minidaps/master/vestr.png",
+      "name":"Vestr",
+      "description": "Create vesting contracts and collect payments",
+      "version" : "1.7.2",
+      "about" : "Create vesting contracts and collect payments",
+      "update" : ["- Now launches in full screen mode on Android. Tap at the top to show title bar."],
+      "date" : "Jul 10, 2023",
+      "history" :[
+      ]
     }
   ]
 }
