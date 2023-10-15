@@ -155,7 +155,7 @@
       "description": "Create vesting contracts and collect payments",
       "version" : "1.7.2",
       "about" : "Create vesting contracts and collect payments",
-      "update" : ["- Now launches in full screen mode on Android. Tap at the top to show title bar."],
+      "update" : [" "],
       "date" : "Jul 10, 2023",
       "history" :[
       ]
